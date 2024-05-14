@@ -1,15 +1,14 @@
-# Specify a base image
-FROM node:alpine
+# Use an official Nginx image
+FROM nginx:alpine
 
-# Specify a work directory
-WORKDIR /usr/app
+# Remove default Nginx website
+RUN rm -rf /usr/share/nginx/html/*
 
-# Install dependencies
-COPY ./package.json ./
-RUN npm install
+# From ‘builder’ stage copy over the artifacts in dist folder to default nginx public folder
+COPY /web /usr/share/nginx/html
 
-# Copy other source code files
-COPY ./ ./
+# Expose port 80
+EXPOSE 80
 
-# Default command
-CMD ["npm", "start"]
+# Start Nginx server
+CMD ["nginx", "-g", "daemon off;"]

@@ -71422,7 +71422,8 @@ if(J.e(j,J.bM(q.y))){new A.acJ(q).$0()
 q.c.jX()}A.AU(B.e.a0("latitude= ",J.bM(J.ak(k,"_latitude"))))
 break $loop$0}if(p.gT(m))if(q.as)q.aI(0,new A.acK(q))
 p=q.gew()
-A.cx(A.D(p).j(0)+"("+A.h(p.a)+", "+A.h(p.b)+")")}else if(p&&n.d==null){if(q.as)q.aI(0,new A.acL(q))}else A.cx(n.f)
+A.cx(A.D(p).j(0)+"("+A.h(p.a)+", "+A.h(p.b)+")")}else if(p&&n.d==null)q.aI(0,new A.acL(q))
+else A.cx(n.f)
 q.aI(0,new A.acM(q))
 return A.x(null,r)}})
 return A.y($async$pC,r)},
@@ -71522,7 +71523,7 @@ q.aI(0,new A.acP(q))
 case 3:return A.x(null,r)}})
 return A.y($async$uU,r)},
 Z(a){var s=null,r="images/company.png",q="images/autologo.jpeg",p=A.c5(62.012465,-6.776299),o=t.l,n=A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acC(),s),s,s,40,s,s,100),B.j,s,40,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),m=A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acD(),s),s,s,40,s,s,100),B.j,s,40,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a)
-o=this.Q?new A.lQ(B.aQ,s,s,A.j9(s,new A.Cs(B.iZ,B.q1,B.q3,B.bL,s,B.we,s,A.a([A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acE(),s),s,s,s,s,s,100),A.ap0("The trip has ended",A.q7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acF(),s),s,s,30,s,s,100),B.j,s,33,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a)],t.af),s),B.j,s,130,new A.bZ(40,0,40,0),new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),s):A.j9(s,s,s,s,1,s,s,1)
+o=this.Q?new A.lQ(B.aQ,s,s,A.j9(s,new A.Cs(B.iZ,B.q1,B.q3,B.bL,s,B.we,s,A.a([A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acE(),s),s,s,s,s,s,100),A.ap0("T\xfarurin er enda\xf0ur.",A.q7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acF(),s),s,s,30,s,s,100),B.j,s,33,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a)],t.af),s),B.j,s,130,new A.bZ(40,0,40,0),new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),s):A.j9(s,s,s,s,1,s,s,1)
 return new A.wP(A.j9(s,A.a7k(B.f4,A.a([new A.vj("pk.eyJ1Ijoib2xhc2FuZGEiLCJhIjoiY2x2bzc4cTFnMGljdzJpcDF6aG12d2d4dSJ9.twV543lvuomibcOfrFqtIQ",new A.acG(this),new A.acH(this),new A.dM(0,p,0,14),B.LG,s),n,new A.lQ(B.iP,s,s,m,s),o],t.af),B.ik),s,s,s,s,s,s),s)}}
 A.acN.prototype={
 $1(a){return this.a.uU()},

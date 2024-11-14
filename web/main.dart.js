@@ -71523,7 +71523,7 @@ q.aI(0,new A.acP(q))
 case 3:return A.x(null,r)}})
 return A.y($async$uU,r)},
 Z(a){var s=null,r="images/company.png",q="images/autologo.jpeg",p=A.c5(62.012465,-6.776299),o=t.l,n=A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acC(),s),s,s,40,s,s,100),B.j,s,40,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),m=A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acD(),s),s,s,40,s,s,100),B.j,s,40,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a)
-o=this.Q?new A.lQ(B.aQ,s,s,A.j9(s,new A.Cs(B.iZ,B.q1,B.q3,B.bL,s,B.we,s,A.a([A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acE(),s),s,s,s,s,s,100),A.ap0("T\xfarurin er enda\xf0ur.",A.q7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acF(),s),s,s,30,s,s,100),B.j,s,33,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a)],t.af),s),B.j,s,130,new A.bZ(40,0,40,0),new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),s):A.j9(s,s,s,s,1,s,s,1)
+o=this.Q?new A.lQ(B.aQ,s,s,A.j9(s,new A.Cs(B.iZ,B.q1,B.q3,B.bL,s,B.we,s,A.a([A.j9(s,A.j9(s,A.Ev(!1,!0,A.YF(q,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acE(),s),s,s,40,s,s,100),B.j,s,43,s,new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),A.ap0("T\xfarurin er enda\xf0ur.",A.q7(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.j9(s,A.Ev(!1,!0,A.YF(r,B.dt),s,!0,s,s,s,s,s,s,s,s,s,new A.acF(),s),s,s,50,s,s,100)],t.af),s),B.j,s,170,new A.bZ(40,0,40,0),new A.bZ(5,5,5,5),A.e7(a,s,o).w.a.a),s):A.j9(s,s,s,s,1,s,s,1)
 return new A.wP(A.j9(s,A.a7k(B.f4,A.a([new A.vj("pk.eyJ1Ijoib2xhc2FuZGEiLCJhIjoiY2x2bzc4cTFnMGljdzJpcDF6aG12d2d4dSJ9.twV543lvuomibcOfrFqtIQ",new A.acG(this),new A.acH(this),new A.dM(0,p,0,14),B.LG,s),n,new A.lQ(B.iP,s,s,m,s),o],t.af),B.ik),s,s,s,s,s,s),s)}}
 A.acN.prototype={
 $1(a){return this.a.uU()},
@@ -71582,7 +71582,7 @@ A.acE.prototype={
 $0(){var s=0,r=A.z(t.H)
 var $async$$0=A.A(function(a,b){if(a===1)return A.w(b,r)
 while(true)switch(s){case 0:s=2
-return A.G(A.AQ(A.db("http://apptokni.fo/",0,null)),$async$$0)
+return A.G(A.AQ(A.db("https://auto.fo/fo/heim",0,null)),$async$$0)
 case 2:return A.x(null,r)}})
 return A.y($async$$0,r)},
 $S:19}
@@ -71590,7 +71590,7 @@ A.acF.prototype={
 $0(){var s=0,r=A.z(t.H)
 var $async$$0=A.A(function(a,b){if(a===1)return A.w(b,r)
 while(true)switch(s){case 0:s=2
-return A.G(A.AQ(A.db("https://auto.fo/fo/heim",0,null)),$async$$0)
+return A.G(A.AQ(A.db("http://apptokni.fo/",0,null)),$async$$0)
 case 2:return A.x(null,r)}})
 return A.y($async$$0,r)},
 $S:19}

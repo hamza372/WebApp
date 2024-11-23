@@ -71423,7 +71423,7 @@ A.bY("in rider request")
 p=J.bd(m)
 l=p.gX(m)
 $loop$0:if(l.p()){l=l.gG(l)
-if(B.b.a9(A.cs(0,new A.d7(Date.now(),!1).qJ().a-l.gua().qJ().a).a,6e7)>90){q.e=!1
+if(B.b.a9(A.cs(0,new A.d7(Date.now(),!1).qJ().a-l.gua().qJ().a).a,6e7)>60){q.e=!1
 A.lL(u.A)}k=B.A.bY(0,B.A.dU(l.d8(0,"location",t.K),null))
 j=l.d8(0,"uq",t.z)
 A.lL(B.e.Z("in rider request = ",j)+"   "+J.bG(q.y))
@@ -71458,7 +71458,7 @@ A.bY("in bundle request")
 p=J.bd(l)
 n=p.gX(l)
 $loop$0:if(n.p()){n=n.gG(n)
-if(B.b.a9(A.cs(0,new A.d7(Date.now(),!1).qJ().a-n.gua().qJ().a).a,6e7)>90){q.e=!1
+if(B.b.a9(A.cs(0,new A.d7(Date.now(),!1).qJ().a-n.gua().qJ().a).a,6e7)>60){q.e=!1
 A.lL(u.A)}k=n.d8(0,"uq",t.z)
 A.lL(B.e.Z("in rider request = ",k)+"   "+J.bG(q.y))
 if(J.e(k,J.bG(q.y))){new A.acI(q).$0()
